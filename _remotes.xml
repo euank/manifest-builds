@@ -3,8 +3,7 @@
   <remote  name="cros"
            fetch="https://chromium.googlesource.com/"
            review="gerrit.chromium.org/gerrit" />
-  <remote  name="github"
-           fetch=".." />
+  <remote  name="github" fetch="https://github.com/" />
   <remote  name="private"
            fetch="ssh://git@github.com" />
 </manifest>
